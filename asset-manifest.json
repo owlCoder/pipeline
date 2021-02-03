@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/owlcoder-pipeline/static/js/main.0396bd16.chunk.js",
-    "main.js.map": "/owlcoder-pipeline/static/js/main.0396bd16.chunk.js.map",
-    "runtime~main.js": "/owlcoder-pipeline/static/js/runtime~main.627a50af.js",
-    "runtime~main.js.map": "/owlcoder-pipeline/static/js/runtime~main.627a50af.js.map",
-    "static/css/2.d64b8b57.chunk.css": "/owlcoder-pipeline/static/css/2.d64b8b57.chunk.css",
-    "static/js/2.9583270a.chunk.js": "/owlcoder-pipeline/static/js/2.9583270a.chunk.js",
-    "static/js/2.9583270a.chunk.js.map": "/owlcoder-pipeline/static/js/2.9583270a.chunk.js.map",
-    "index.html": "/owlcoder-pipeline/index.html",
-    "precache-manifest.42361d42982257802cf1ddafac0898c6.js": "/owlcoder-pipeline/precache-manifest.42361d42982257802cf1ddafac0898c6.js",
-    "service-worker.js": "/owlcoder-pipeline/service-worker.js",
-    "static/css/2.d64b8b57.chunk.css.map": "/owlcoder-pipeline/static/css/2.d64b8b57.chunk.css.map"
+    "main.js": "/pipeline/static/js/main.abfcc334.chunk.js",
+    "main.js.map": "/pipeline/static/js/main.abfcc334.chunk.js.map",
+    "runtime~main.js": "/pipeline/static/js/runtime~main.4bd7c2f1.js",
+    "runtime~main.js.map": "/pipeline/static/js/runtime~main.4bd7c2f1.js.map",
+    "static/css/2.d64b8b57.chunk.css": "/pipeline/static/css/2.d64b8b57.chunk.css",
+    "static/js/2.9583270a.chunk.js": "/pipeline/static/js/2.9583270a.chunk.js",
+    "static/js/2.9583270a.chunk.js.map": "/pipeline/static/js/2.9583270a.chunk.js.map",
+    "index.html": "/pipeline/index.html",
+    "precache-manifest.bb03efa8d8f768ef83794eed257a557a.js": "/pipeline/precache-manifest.bb03efa8d8f768ef83794eed257a557a.js",
+    "service-worker.js": "/pipeline/service-worker.js",
+    "static/css/2.d64b8b57.chunk.css.map": "/pipeline/static/css/2.d64b8b57.chunk.css.map"
   }
 }
