@@ -4,7 +4,7 @@ const Home = () => (
  <div> <br/><br/><br/><br/>
 	    <div class="jumbotron"  style={{
 	  color: 'white',
-	  backgroundImage: "url(" + "http://danijel.rocks/pipeline/Pozadina4.jpg" + ")",
+	  backgroundImage: "url(" + "https://github.com/owlCoder/pipeline/blob/www/static/Pozadina4.jpg?raw=true" + ")",
 	  backgroundPosition: 'center',
 	  backgroundSize: 'cover',
 	  backgroundRepeat: 'no-repeat',
