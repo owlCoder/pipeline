@@ -1,0 +1,42 @@
+{
+  "name": "pipeline",
+  "version": "5.62.1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.8.6",
+    "react-confirm-alert": "^2.4.1",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
+    "shaka-player": "^2.5.1",
+    "universal-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "react-scripts": "3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "http://owlcoder.github.io/owlcoder-pipeline/"
+}
