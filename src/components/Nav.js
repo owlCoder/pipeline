@@ -45,7 +45,7 @@ const Nav = ({ routes }) => {
         exact
         to="/"
       >
-        Pipiline™
+        Pipeline™
       </NavLink>
       <button
         className="navbar-toggler text-white"
