@@ -1,4 +1,4 @@
-# Prototype Progressive Web App using React
+# PipeLine - The new way to meet standards od PWA
 
 <hr>
 
