@@ -1,4 +1,4 @@
-# PipeLine - The new way to meet standards od PWA
+# PipeLine - The new way to meet standards of PWA
 
 <hr>
 
